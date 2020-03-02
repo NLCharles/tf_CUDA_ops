@@ -1,4 +1,4 @@
-##InBox check 2d
+## InBox check 2d
 This program takes 2 inputs: 
     2d point matrix pts, nx2
     2d box, 4x2
